@@ -59,9 +59,3 @@ Docs: https://qubit-finance.gitbook.io/qubit-finance/
 | QBT | [0x67B806ab830801348ce719E0705cC2f2718117a1](https://testnet.bscscan.com/address/0x67B806ab830801348ce719E0705cC2f2718117a1)|
 
 <br />
-
-# Contact Us
-- Twitter: [@QubitFin](https://twitter.com/QubitFin)
-- Discord: [https://discord.gg/JGJBWRxX2Y](https://discord.gg/JGJBWRxX2Y)
-- Telegram: [https://t.me/QubitFinOfficial](https://t.me/QubitFinOfficial)
-- Email: [hello@qbt.fi](mailto:hello@qbt.fi)
